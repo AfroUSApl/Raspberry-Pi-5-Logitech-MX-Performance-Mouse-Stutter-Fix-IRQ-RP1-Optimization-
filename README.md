@@ -178,8 +178,10 @@ Core layout:
   CPU2   USB mouse
   CPU3   USB3 devices
 
+Before Result:
 ![Before Result](images/before.png)
 
+Final Result:
 ![Final Result](images/after.png)
 
 ------------------------------------------------------------------------
